@@ -1,0 +1,29 @@
+.avatar-container {
+  height: 150px;
+  padding: 10px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  height: 90%;
+  width: 119px;
+  border-radius: 50%;
+  background-color: #d4c5c5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #463a3a;
+  font-size: 2rem;
+}
+
+.card-title {
+  color: #463a3a;
+}
+
+.email-text {
+  color: #7d6f6f;
+  font-weight: 500;
+  font-style: italic;
+}
